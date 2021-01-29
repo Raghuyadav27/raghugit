@@ -10,3 +10,4 @@
 __another bold__
 
 *italic font*
+_**italic and bold**_
